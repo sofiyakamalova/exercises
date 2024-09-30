@@ -1,4 +1,4 @@
-# exercise1
+# exercises
 
 A new Flutter project.
 
