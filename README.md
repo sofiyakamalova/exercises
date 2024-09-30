@@ -18,4 +18,4 @@
 <img src="https://github.com/user-attachments/assets/94845bb2-9c8c-4f06-bacf-8740e2667e02" alt="ex4" width="300" />
 
 ## EX5
-<img src="https://github.com/user-attachments/assets/0fbd1332-b96e-47e9-91de-1a1dcb1962b8" alt="ex5" width="300" />
+<img src="https://github.com/user-attachments/assets/4e0ee2ef-3dca-4601-9188-77996b100866" alt="ex5" width="300" />
