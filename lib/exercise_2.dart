@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'exercise_3.dart';
+
 class Exercise_2 extends StatelessWidget {
   const Exercise_2({super.key});
 
@@ -39,17 +41,17 @@ class Exercise_2 extends StatelessWidget {
                           width: double.infinity,
                         ),
                       ),
-                      Text(
+                      const Text(
                         'Каппадокия',
                         style: TextStyle(fontSize: 18),
                       ),
-                      Text(
+                      const Text(
                         'Истроическое название местности на востоке Малой Азии ',
                         style: TextStyle(
                           fontSize: 16,
                         ),
                       ),
-                      Row(
+                      const Row(
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: [
                           Text(
@@ -59,7 +61,7 @@ class Exercise_2 extends StatelessWidget {
                             ),
                           ),
                           Text(
-                            ' 5 минут чтения',
+                            '5 минут чтения',
                           ),
                         ],
                       ),
@@ -71,8 +73,10 @@ class Exercise_2 extends StatelessWidget {
             const SizedBox(height: 20),
             ElevatedButton(
               onPressed: () {
-                Navigator.push(context,
-                    MaterialPageRoute(builder: (context) => Exercise_2()));
+                Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                        builder: (context) => const Exercise_3()));
               },
               child: Container(
                 // height: 30,
@@ -80,7 +84,7 @@ class Exercise_2 extends StatelessWidget {
                 padding:
                     const EdgeInsets.symmetric(vertical: 15, horizontal: 20),
                 child: const Text(
-                  'EX3',
+                  'EX3 ->',
                   style: TextStyle(fontSize: 20, color: Colors.black),
                 ),
               ),

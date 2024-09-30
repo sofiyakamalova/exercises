@@ -31,7 +31,7 @@ class Exercise_1 extends StatelessWidget {
                 padding:
                     const EdgeInsets.symmetric(vertical: 15, horizontal: 20),
                 child: const Text(
-                  'EX2',
+                  'EX2 ->',
                   style: TextStyle(fontSize: 20, color: Colors.black),
                 ),
               ),
