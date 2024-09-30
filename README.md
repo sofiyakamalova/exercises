@@ -4,6 +4,8 @@
 ## EX1
 Установите Flutter SDK и создайте простое приложение 'Hello World'.
 ![ex1](https://github.com/user-attachments/assets/3196b5d1-7166-432d-9288-a079316b38f9)
+<img src="https://github.com/user-attachments/assets/3196b5d1-7166-432d-9288-a079316b38f9" alt="ex1" width="300" />
+
 
 ## EX2
 Изучите основные виджеты Flutter и создайте простой пользовательский интерфейс.
